@@ -102,3 +102,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# config file
+app/config/auth.config.js
+app/config/db.config.js
+app/config/mail.config.js
